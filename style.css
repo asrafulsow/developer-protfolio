@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+P{
+    color: dimgray;
+}
 .orange{
     color: orange;
 }
@@ -18,6 +21,7 @@ section{
 .half-width{
     width: 50%;
     padding-left: 2%;
+    padding: 70px;
 }
 .half-width img{
     width: 80%;
@@ -29,4 +33,12 @@ section{
     font-weight: 800;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.sec-had{
+    font-size: 40px;
+}
+.dreem-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
